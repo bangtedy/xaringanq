@@ -22,7 +22,7 @@ style_mono_accent(
 )
 ```
 
-class: title-slide, center
+class: title-slide, center, middle
 
 # Header 1
 
